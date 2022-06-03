@@ -12,3 +12,8 @@ INTERFACE is the target to change the MAC address.
 
 MAC_ADDRESS is the new MAC address you want to assign
 to the interface.
+
+## Credit:
+
+This code mainly depends on the work of Zaid Sabih from zSecurity.
+Enhancements and other customizations are made by me.
